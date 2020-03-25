@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="testgitapptable" max_length="40" name="x_8410_jamesgitapp_testgitapptable" type="collection">
+        <element label="testField" max_length="40" name="testfield" type="string"/>
+    </element>
+</database>
